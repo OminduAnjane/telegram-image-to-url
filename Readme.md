@@ -6,7 +6,7 @@
 
 ## Installation 
 ```sh
-npm i @blackamda/telegram-image-url
+npm i @ominduanjana/telegram-image-to-url
 ```
 
 ***
@@ -15,7 +15,7 @@ npm i @blackamda/telegram-image-url
 ```ts
 let { img2url } = require('@ominduanjana/telegram-image-to-url')
 
-const path = './1234.jpg'
+const path = './omi.jpg'
 
 img2url(path).then(url => {
     console.log(url); //=> https://telegra.ph/file/a45e08f53773b1a6a16af.jpg
