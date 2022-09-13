@@ -1,19 +1,20 @@
 # Simple image to url converter
+##   👇 👇 👇 
 
-- Author : [Omindu Anjana](https://github.com/omigetapi/)
+- Author : [Omindu Anjana](https://github.com/OminduBro/)
 
 ***
 
 ## Installation 
 ```sh
-npm i @ominduanjana/telegram-image-to-url
+npm i @omindubro/telegram-image-to-url
 ```
 
 ***
 
 ## Example
 ```ts
-let { img2url } = require('@ominduanjana/telegram-image-to-url')
+let { img2url } = require('@omindubro/telegram-image-to-url')
 
 const path = './omi.jpg'
 
